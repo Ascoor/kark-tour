@@ -171,9 +171,9 @@
                         <div class="icon-box">
                             <span class="mbr-iconfont mobi-mbri-rocket mobi-mbri"></span>
                         </div>
-                        <h4 class="card-title mbr-fonts-style align-left mb-0 display-4"><a href="#"
+                        <h4 class="card-title mbr-fonts-style align-right mb-0 display-4"><a href="#"
                                 class="text-white">مميزات السفر</a></h4>
-                        <p class="mbr-text mbr-fonts-style mb-0 display-7">
+                        <p class="mbr-text mbr-fonts-style align-right  mb-0 display-7">
                             نحن نقدم تجربة سفر فريدة تتضمن أفضل الأماكن والأنشطة للاستمتاع بعطلة لا تُنسى.
                         </p>
                     </div>
@@ -181,13 +181,13 @@
             </div>
             <div class="col-12 col-md-6 col-card col-lg-4">
                 <div class="card-wrapper card-2">
-                    <div class="card-box align-left">
+                    <div class="card-box align-right">
                         <div class="icon-box">
                             <span class="mbr-iconfont mobi-mbri-contact-form mobi-mbri"></span>
                         </div>
-                        <h4 class="card-title mbr-fonts-style align-left mb-0 display-4"><a href="#"
+                        <h4 class="card-title mbr-fonts-style align-right mb-0 display-4"><a href="#"
                                 class="text-white">حجز سهل ومريح</a></h4>
-                        <p class="mbr-text mbr-fonts-style mb-0 display-7">
+                        <p class="mbr-text mbr-fonts-style align-right  mb-0 display-7">
                             قم بحجز رحلتك بسهولة ومرونة من خلال منصتنا الإلكترونية السهلة الاستخدام.
                         </p>
                     </div>
@@ -195,13 +195,13 @@
             </div>
             <div class="col-12 col-md-6 col-card col-lg-4">
                 <div class="card-wrapper card-3">
-                    <div class="card-box align-left">
+                    <div class="card-box align-right">
                         <div class="icon-box">
                             <span class="mbr-iconfont mobi-mbri-key mobi-mbri"></span>
                         </div>
-                        <h4 class="card-title mbr-fonts-style align-left mb-0 display-4"><a href="#"
+                        <h4 class="card-title mbr-fonts-style align-right mb-0 display-4"><a href="#"
                                 class="text-white">برنامج سفر مخصص</a></h4>
-                        <p class="mbr-text mbr-fonts-style mb-0 display-7">
+                        <p class="mbr-text align-right  mbr-fonts-style mb-0 display-7">
                             انضم إلى برنامج سفرنا المخصص واستمتع بامتيازات حصرية وعروض خاصة لعملائنا.
                         </p>
                     </div>
