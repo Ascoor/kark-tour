@@ -68,7 +68,7 @@
                 <div class="mbr-section-btn"><a class="btn btn-success display-7" href="https://wa.me/+201100101626">Send Us a Message</a></div>
                 <div class="tel-menu">
                     <p class="mbr-text mbr-fonts-style display-7">
-                        Call Us <a href="#" class="text-success">(+990) 123 456 112</a>
+                        Call Us <a href="#" class="text-success">(+20) 110 010 1626</a>
                     </p>
                 </div>
             </div>
