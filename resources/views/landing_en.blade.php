@@ -59,8 +59,8 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav nav-dropdown" data-app-modern-menu="true">
                     <li class="nav-item"><a class="nav-link link text-black display-7" href="/">Home</a></li>
-                    <li class="nav-item"><a class="nav-link link text-black display-7" href="/blog">Blog</a></li>
-                    <li class="nav-item"><a class="nav-link link text-black display-7" href="/contact">Contact Us</a></li>
+                    <li class="nav-item"><a class="nav-link link text-black display-7" href="/">Blog</a></li>
+                    <li class="nav-item"><a class="nav-link link text-black display-7" href="/">Contact Us</a></li>
                     <li class="nav-item"><a class="nav-link link text-black display-7" href="/">Ar 🌍</a></li>
 
                 </ul>

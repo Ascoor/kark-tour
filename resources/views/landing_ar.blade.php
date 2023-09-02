@@ -63,8 +63,8 @@
                         <li class="nav-item"><a class="nav-link link text-black display-7" href="/">الصفحة الرئيسية</a>
                         </li>
                  
-                        <li class="nav-item"><a class="nav-link link text-black display-7" href="/blog">المدونة</a></li>
-                        <li class="nav-item"><a class="nav-link link text-black display-7" href="/contact">اتصل بنا</a>
+                        <li class="nav-item"><a class="nav-link link text-black display-7" href="/">المدونة</a></li>
+                        <li class="nav-item"><a class="nav-link link text-black display-7" href="/">اتصل بنا</a>
                         </li>
                         <li class="nav-item"><a class="nav-link link text-black display-7" href="/en">En 🌍</a></li>
                     </ul>
