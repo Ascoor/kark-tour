@@ -73,7 +73,8 @@
 
                     <div class="tel-menu">
                         <p class="mbr-text mbr-fonts-style display-7">
-                            اتصل بنا <a href="#" class="text-success">(+20) 110 010 1626</a>
+                        اتصل بنا <a href="#" class="text-success">(+20) 110 010 1626</a>
+
                         </p>
                     </div>
                 </div>
