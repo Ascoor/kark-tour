@@ -55,7 +55,7 @@
                     <span></span>
                     <span></span>
                 </div>
-            </button>سسسس
+            </button>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav nav-dropdown" data-app-modern-menu="true">
                     <li class="nav-item"><a class="nav-link link text-black display-7" href="/">Home</a></li>
