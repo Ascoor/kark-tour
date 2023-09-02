@@ -66,7 +66,7 @@
                         <li class="nav-item"><a class="nav-link link text-black display-7" href="/blog">المدونة</a></li>
                         <li class="nav-item"><a class="nav-link link text-black display-7" href="/contact">اتصل بنا</a>
                         </li>
-                        <li class="nav-item"><a class="nav-link link text-black display-7" href="/">En 🌍</a></li>
+                        <li class="nav-item"><a class="nav-link link text-black display-7" href="/en">En 🌍</a></li>
                     </ul>
 
                     <div class="mbr-section-btn"><a class="btn btn-success display-7" href="https://wa.me/+201100101626">ارسل لنا رسالة عبر واتساب</a></div>
